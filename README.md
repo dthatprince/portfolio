@@ -4,17 +4,13 @@ Github profile : [https://github.com/dthatprince](https://github.com/dthatprince
 Welcome to my portfolio! This repository showcases my projects and fun stuffs.
 ## About Me
 
-My name is Prince Nwaekwu, I am a passionate and dedicated data scientist with a strong background in Big data analytics and Machine Learning. With a keen interest in uncovering insights from complex datasets, I thrive on solving challenging problems and turning raw data into actionable insights.
+I am Prince Nwaekwu, a Python specialist with expertise in Data Science, Machine Learning, MLOps, and backend microservices using Flask and FastAPI. My work focuses on developing scalable solutions that transform complex data into actionable insights and streamline operations.
 
-Throughout my career, I have gained extensive experience in data wrangling, exploratory data analysis, statistical modeling, and predictive analytics. I enjoy working with large datasets, identifying patterns, and developing innovative solutions to extract valuable information that drives informed decision-making.
+I have a proven track record in deploying machine learning models, enhancing data workflows with MLOps, and building robust APIs. My technical skills are complemented by my ability to communicate effectively across technical and non-technical stakeholders, making complex concepts accessible and actionable.
 
-In addition to my technical skills, I possess strong communication and storytelling abilities, allowing me to effectively convey complex findings to both technical and non-technical stakeholders. I thrive in collaborative environments, working closely with interdisciplinary teams to translate business objectives into data-driven strategies.
+I am committed to continuous learning and applying cutting-edge technologies to solve real-world problems. I am keen to contribute to projects that leverage Python to drive innovation and deliver value.
 
-Continuous learning is a core value of mine, and I actively stay up-to-date with the latest advancements in the field of data science. I am always seeking opportunities to expand my knowledge and apply new methodologies to solve real-world problems.
-
-I am excited about the possibilities that data science offers, and I am eager to contribute my skills and expertise to drive innovation and make a positive impact. If you are interested in collaborating or have any inquiries, please feel free to reach out to me.
-
-Let's unlock the hidden insights within data together!
+Let's explore the possibilities of data and Python together!
 
 ---
 
@@ -27,14 +23,6 @@ Thank you for taking the time to learn more about me and my work!
 ---
 
 # Projects
-
-### Multivariate Anomaly Detection Using the UCI Thyroid Disease Data Set
-- This project demonstrates a comprehensive approach to multivariate anomaly detection using Python within a Jupyter Notebook. It guides users through loading, preprocessing, training, and evaluating models on the UCI Thyroid Disease dataset.
-Repository: [Github Link](https://github.com/dthatprince/multivariate_anomaly_detection)
-
-### Univariate Anomaly Detection (Machine Learning Methods)
-- This project implements univariate anomaly detection using machine learning techniques in Python, within a Jupyter Notebook environment. It focuses on detecting unusual patterns or outliers in single-variable datasets using advanced machine learning methods.
-Repository: [Github Link](https://github.com/dthatprince/univariate_anomaly_detection)
 
 ### Data anonymization for LLMs with OpenAI, LangChain and Microsoft Presidio
 - Developing and Exploring Use cases for Reversible Anonymization, Multi-language Anonymization, Question and Answering with privacy protection.
@@ -56,6 +44,16 @@ Mean Absolute Deviation (MAD), Isolation Forest & Local Outlier Factor (LOF)
 - Description: A PySpark project implementing a machine learning pipeline for predicting term deposit subscriptions using the Bank Term Deposit Subscription Dataset. Using certain factors we need to classify whether or not a customer subscribes to the term deposit upon getting a call from a bank’s representative.
 
 - Repository: [GitHub](https://github.com/dthatprince/bank-deposit-spark-ml-pipeline)
+
+
+### Multivariate Anomaly Detection Using the UCI Thyroid Disease Data Set
+- This project demonstrates a comprehensive approach to multivariate anomaly detection using Python within a Jupyter Notebook. It guides users through loading, preprocessing, training, and evaluating models on the UCI Thyroid Disease dataset.
+Repository: [Github Link](https://github.com/dthatprince/multivariate_anomaly_detection)
+
+
+### Univariate Anomaly Detection (Machine Learning Methods)
+- This project implements univariate anomaly detection using machine learning techniques in Python, within a Jupyter Notebook environment. It focuses on detecting unusual patterns or outliers in single-variable datasets using advanced machine learning methods.
+Repository: [Github Link](https://github.com/dthatprince/univariate_anomaly_detection)
 
 
 ### Euro 2024 Parliament Elections: LSTM Text Prediction Model

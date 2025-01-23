@@ -46,6 +46,13 @@ Mean Absolute Deviation (MAD), Isolation Forest & Local Outlier Factor (LOF)
 - Repository: [GitHub](https://github.com/dthatprince/bank-deposit-spark-ml-pipeline)
 
 
+### Docker-Based Data Ingestion Pipeline
+- A Docker-based data ingestion pipeline that automates the extraction, transformation, and loading (ETL) of data into a PostgreSQL database. It leverages Docker to containerize and manage the deployment of a Python script, a PostgreSQL database, and PgAdmin, ensuring seamless interoperability and isolation in a single Docker network.
+- Docker, Python, PostgreSQL, PgAdmin
+
+- Repository: [Github](https://github.com/dthatprince/data-pipeline-dockerized)
+
+
 ### Multivariate Anomaly Detection Using the UCI Thyroid Disease Data Set
 - This project demonstrates a comprehensive approach to multivariate anomaly detection using Python within a Jupyter Notebook. It guides users through loading, preprocessing, training, and evaluating models on the UCI Thyroid Disease dataset.
 Repository: [Github Link](https://github.com/dthatprince/multivariate_anomaly_detection)
@@ -66,6 +73,7 @@ Repository: [Github Link](https://github.com/dthatprince/univariate_anomaly_dete
 - Description: This project is a text generator application built using GPT-2, Gradio, and TensorFlow. The app takes a user-provided sentence as input and generates a complete paragraph based on that sentence.
 
 - Repository: [GitHub](https://github.com/dthatprince/text-generator-tf/)
+
 
 ### AI Blog Post Generator using LLAMA2
 

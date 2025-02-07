@@ -28,6 +28,12 @@ Thank you for taking the time to learn more about me and my work!
 - Developing and Exploring Use cases for Reversible Anonymization, Multi-language Anonymization, Question and Answering with privacy protection.
 Repository: [Github Link](https://github.com/dthatprince/llm-anonymizer)
 
+
+### Creating GCP Infrastructure with Terraform
+- Description: This project demonstrates the creation of Google Cloud Platform (GCP) infrastructure using Terraform. It specifically sets up a Google Storage Bucket and a BigQuery dataset in the europe-west1 region with the help of a service account for authentication.
+Repository: [Github Link](https://github.com/dthatprince/gcp-terraform)
+
+
 ### Image Object Detection using ImageAI
 - Description: Image Object Detection project using ImageAI with RetinaNet, YOLOv3, or TinyYOLOv3 models on GitHub.
 

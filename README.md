@@ -24,6 +24,11 @@ Thank you for taking the time to learn more about me and my work!
 
 # Projects
 
+### FinChain Advisor App
+- This application allows users to query financial data efficiently using natural language. This project demonstrates how to integrate a ChromaDB vector store within a LangChain pipeline to build an AI-powered GPT Investment Advisor Q&A agent for querying and analyzing financial data.
+Repository: [Github Link](https://github.com/dthatprince/finchain)
+
+
 ### Data anonymization for LLMs with OpenAI, LangChain and Microsoft Presidio
 - Developing and Exploring Use cases for Reversible Anonymization, Multi-language Anonymization, Question and Answering with privacy protection.
 Repository: [Github Link](https://github.com/dthatprince/llm-anonymizer)

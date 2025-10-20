@@ -4,7 +4,11 @@ Github profile : [https://github.com/dthatprince](https://github.com/dthatprince
 Welcome to my portfolio! This repository showcases my projects and fun stuffs.
 ## About Me
 
-I am Prince Nwaekwu, a Python specialist with expertise in Data Science, Machine Learning, MLOps, and backend microservices using Flask and FastAPI. My work focuses on developing scalable solutions that transform complex data into actionable insights and streamline operations.
+I am Prince Nwaekwu, A Python Backend Engineer with a strong background in Data Science and Machine Learning. I specialize in building scalable backend systems using Flask, FastAPI, and Django, and creating interactive frontends with Vue.js. My expertise includes developing RESTful APIs, integrating databases (MySQL, PostgreSQL, MongoDB), and deploying cloud-based solutions on AWS and Azure.
+
+With a foundation in data-driven problem solving, I bring analytical depth to backend development—optimizing performance, automating workflows, and ensuring clean, maintainable code. 
+
+I’m passionate about creating intelligent, full-stack solutions that bridge AI-powered insights with robust software engineering and modern frontend experiences.
 
 I have a proven track record in deploying machine learning models, enhancing data workflows with MLOps, and building robust APIs. My technical skills are complemented by my ability to communicate effectively across technical and non-technical stakeholders, making complex concepts accessible and actionable.
 

@@ -6,7 +6,7 @@ Welcome to my portfolio! This repository showcases my projects and fun stuffs.
 
 I am Prince Nwaekwu, A Python Backend Engineer with a strong background in Data Science and Machine Learning. I specialize in building scalable backend systems using Flask, FastAPI, and Django, and creating interactive frontends with Vue.js. My expertise includes developing RESTful APIs, integrating databases (MySQL, PostgreSQL, MongoDB), and deploying cloud-based solutions on AWS and Azure.
 
-With a foundation in data-driven problem solving, I bring analytical depth to backend development—optimizing performance, automating workflows, and ensuring clean, maintainable code. 
+With a foundation in data-driven problem solving, I bring analytical depth to backend development, optimizing performance, automating workflows, and ensuring clean, maintainable code. 
 
 I’m passionate about creating intelligent, full-stack solutions that bridge AI-powered insights with robust software engineering and modern frontend experiences.
 

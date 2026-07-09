@@ -29,7 +29,7 @@ Thank you for taking the time to learn more about me and my work!
 # Projects
 
 
-### HR Streamline AI Assistant & API
+### HR Streamline AI Assistant & API [Github Link](https://github.com/dthatprince/hrstreamline)
 - A Human Resource Management System (HRMS) that automates employee data management, leave tracking, and core HR processes. It features an AI assistant that allows querying the database in natural language, eliminating the need for manual SQL queries during analysis.
 Repository: [Github Link](https://github.com/dthatprince/hrstreamline)
 #### Live Demo
